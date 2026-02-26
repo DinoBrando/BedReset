@@ -1,0 +1,10 @@
+name: BedReset
+main: com.bedreset.bedresetplugin.BedResetPlugin
+version: 1.0
+api-version: '1.21'
+author: qiubz
+description: Reset insomnia when right-clicking bed.
+
+permissions:
+  bedreset.use:
+    default: true
