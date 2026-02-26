@@ -4,8 +4,6 @@ A Minecraft Plugin that Resets the phantom insomnia counters after you clicked t
 ## Features
 - Reset insomnia during daytime
 - Optional once-per-night restriction
-- Cooldown system
-- Suppresses vanilla sleep errors
 - Configurable behavior
 
 ## Installation
